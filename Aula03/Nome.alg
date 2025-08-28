@@ -1,4 +1,4 @@
-algoritmo "Meu Primeiro Programa"
+algoritmo "Nome"
 // Fução :
 // Autor :
 // Data : 26/08/2025
