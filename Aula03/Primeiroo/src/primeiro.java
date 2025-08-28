@@ -1,4 +1,4 @@
-package Aula03;
+package Aula03.Primeiroo.src;
 
 import java.util.Scanner;
 public class primeiro {
