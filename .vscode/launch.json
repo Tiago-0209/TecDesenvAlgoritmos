@@ -1,0 +1,49 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "edr2",
+            "request": "launch",
+            "mainClass": "Aula06.atividades.src.edr2",
+            "projectName": "TecDesenvAlgoritmos_b6be86a0"
+        },
+        {
+            "type": "java",
+            "name": "Idade01",
+            "request": "launch",
+            "mainClass": "Idade01",
+            "projectName": "TecDesenvAlgoritmos_b6be86a0"
+        },
+        {
+            "type": "java",
+            "name": "idade01",
+            "request": "launch",
+            "mainClass": "idade01",
+            "projectName": "TecDesenvAlgoritmos_b6be86a0"
+        },
+        {
+            "type": "java",
+            "name": "idade",
+            "request": "launch",
+            "mainClass": "idade",
+            "projectName": "TecDesenvAlgoritmos_b6be86a0"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "TecDesenvAlgoritmos_b6be86a0"
+        }
+    ]
+}
