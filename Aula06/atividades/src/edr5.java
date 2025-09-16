@@ -1,3 +1,4 @@
+package Aula06.atividades.src;
 public class edr5 {
     public static void main (String[] args) {
         int x;

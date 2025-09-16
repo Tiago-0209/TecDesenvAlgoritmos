@@ -27,7 +27,7 @@ public class adivinhacao {
             } else if (palpite > numeroSecreto) {
                 System.out.println("O número secreto é MENOR!");
             } else {
-                System.out.println("🎉 Parabéns! Você acertou o número secreto!");
+                System.out.println(" Parabéns! Você acertou o número secreto!");
             }
         }
 

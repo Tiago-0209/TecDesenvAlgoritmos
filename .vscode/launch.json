@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "adivinhacao",
+            "request": "launch",
+            "mainClass": "Aula06.atividades.src.adivinhacao",
+            "projectName": "TecDesenvAlgoritmos_b6be86a0"
+        },
+        {
+            "type": "java",
             "name": "edr2",
             "request": "launch",
             "mainClass": "Aula06.atividades.src.edr2",
